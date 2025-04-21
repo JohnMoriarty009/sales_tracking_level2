@@ -1,0 +1,6 @@
+venv/
+
+git add .gitignore Book1.xlsx # votre_fichier_excel_vide.xlsx : Ajoutez aussi le nom exact de votre fichier excel
+git add .First_step.md # Ajoute tous les autres fichiers non ignorés
+git commit -m "Initial project setup and Excel file structure"
+git push -u origin main # ou master, selon la branche par défaut de votre dépôt GitHub
