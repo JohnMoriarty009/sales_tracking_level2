@@ -14,3 +14,13 @@ git push origin main # ou master
 git add data_manager.py
 git commit -m "Data loading successful, headers read correctly with header=1"
 git push origin main # ou master
+
+23-04-25; 22h33
+git add app.py
+git commit -m "Add basic PyQt6 main window structure"
+git push origin main # ou master
+
+23-04-25; 22h49
+git add app.py
+git commit -m "Implement basic PyQt6 styling (gradient background, styled label)"
+git push origin main # ou master
