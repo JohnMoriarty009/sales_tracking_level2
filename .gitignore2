@@ -4,3 +4,13 @@ git add .gitignore Book1.xlsx # votre_fichier_excel_vide.xlsx : Ajoutez aussi le
 git add .First_step.md # Ajoute tous les autres fichiers non ignorés
 git commit -m "Initial project setup and Excel file structure"
 git push -u origin main # ou master, selon la branche par défaut de votre dépôt GitHub
+
+23-04-25; 22h11
+git add data_manager.py
+git commit -m "Fix pandas reading headers by specifying header=1 (row 2)"
+git push origin main # ou master
+
+23-04-25; 22h14
+git add data_manager.py
+git commit -m "Data loading successful, headers read correctly with header=1"
+git push origin main # ou master
