@@ -24,3 +24,9 @@ git push origin main # ou master
 git add app.py
 git commit -m "Implement basic PyQt6 styling (gradient background, styled label)"
 git push origin main # ou master
+
+23-04-25; 23h03
+git add app.py
+git commit -m "Implement enhanced styling for the main window and welcome label"
+git push origin main # ou master
+
